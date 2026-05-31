@@ -1,6 +1,6 @@
 ## Hi, I'm Harish S 👋
 
-**CA | CFA Level II | Quantitative & Algorithmic Trading | NSE | Python**
+**CA | CFA Level II | Quantitative & Algorithmic Investing | Python**
 
 I build systematic trading strategies for Indian equity markets, combining financial theory with Python-based backtesting, options hedging, and automation.
 
